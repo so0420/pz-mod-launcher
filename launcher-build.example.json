@@ -1,0 +1,12 @@
+{
+  "title": "PZ Mod Launcher",
+  "pack_id": "my-server",
+  "modpack_url": "https://example.com/modpack",
+  "server_host": "play.example.com",
+  "server_port": "16261",
+  "server_password": "",
+  "force_workshop_delete": false,
+  "game_path": "",
+  "java_agent": "",
+  "java_agent_options": ""
+}
